@@ -84,7 +84,6 @@ JOURNALS = [
     {"name": "eClinicalMedicine", "issn": "2589-5370", "pubmed_abbrev": "EClinicalMedicine"},
 
     # ---- 环境工程/环境科学补充期刊 ----
-    {"name": "Science of The Total Environment (STOTEN)", "issn": "0048-9697", "pubmed_abbrev": "Sci Total Environ"},
     {"name": "ACS ES&T Water", "issn": "2690-0637", "pubmed_abbrev": None},
     {"name": "ACS ES&T Engineering", "issn": "2690-0645", "pubmed_abbrev": None},
     {"name": "Water Research X", "issn": "2589-9147", "pubmed_abbrev": None},
