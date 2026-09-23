@@ -66,6 +66,34 @@ JOURNALS = [
     {"name": "ACS Applied Materials & Interfaces", "issn": "1944-8244", "pubmed_abbrev": "ACS Appl Mater Interfaces"},
     {"name": "Advanced Materials", "issn": "0935-9648", "pubmed_abbrev": "Adv Mater"},
     {"name": "Advanced Functional Materials (AFM)", "issn": "1616-301X", "pubmed_abbrev": "Adv Funct Mater"},
+    {"name": "Chemical Reviews", "issn": "0009-2665", "pubmed_abbrev": "Chem Rev"},
+    {"name": "Chem (Cell Press)", "issn": "2451-9294", "pubmed_abbrev": None},
+    {"name": "Matter (Cell Press)", "issn": "2590-2385", "pubmed_abbrev": None},
+    {"name": "Green Chemistry", "issn": "1463-9262", "pubmed_abbrev": None},
+    {"name": "ACS Catalysis", "issn": "2155-5435", "pubmed_abbrev": None},
+    {"name": "Applied Catalysis B: Environmental", "issn": "0926-3373", "pubmed_abbrev": None},
+    {"name": "Small", "issn": "1613-6810", "pubmed_abbrev": None},
+    {"name": "Advanced Science", "issn": "2198-3844", "pubmed_abbrev": None},
+    {"name": "Journal of Materials Chemistry A", "issn": "2050-7488", "pubmed_abbrev": None},
+
+    # ---- 柳叶刀系列（环境健康相关） ----
+    {"name": "The Lancet Planetary Health", "issn": "2542-5196", "pubmed_abbrev": "Lancet Planet Health"},
+    {"name": "The Lancet Public Health", "issn": "2468-2667", "pubmed_abbrev": "Lancet Public Health"},
+    {"name": "The Lancet", "issn": "0140-6736", "pubmed_abbrev": "Lancet"},
+    {"name": "The Lancet Global Health", "issn": "2214-109X", "pubmed_abbrev": "Lancet Glob Health"},
+    {"name": "eClinicalMedicine", "issn": "2589-5370", "pubmed_abbrev": "EClinicalMedicine"},
+
+    # ---- 环境工程/环境科学补充期刊 ----
+    {"name": "Science of The Total Environment (STOTEN)", "issn": "0048-9697", "pubmed_abbrev": "Sci Total Environ"},
+    {"name": "ACS ES&T Water", "issn": "2690-0637", "pubmed_abbrev": None},
+    {"name": "ACS ES&T Engineering", "issn": "2690-0645", "pubmed_abbrev": None},
+    {"name": "Water Research X", "issn": "2589-9147", "pubmed_abbrev": None},
+    {"name": "Environmental Science: Nano", "issn": "2051-8153", "pubmed_abbrev": None},
+    {"name": "Environmental Science: Processes & Impacts", "issn": "2050-7887", "pubmed_abbrev": None},
+    {"name": "Journal of Environmental Management", "issn": "0301-4797", "pubmed_abbrev": "J Environ Manage"},
+    {"name": "Ecotoxicology and Environmental Safety", "issn": "0147-6513", "pubmed_abbrev": "Ecotoxicol Environ Saf"},
+    {"name": "Critical Reviews in Environmental Science and Technology", "issn": "1064-3389", "pubmed_abbrev": None},
+    {"name": "npj Clean Water", "issn": "2059-7037", "pubmed_abbrev": None},
 ]
 
 # ==================== 配置：PFAS 关键词 ====================
